@@ -34,7 +34,7 @@ function App() {
         {/* Student */}
         <Grid size={{ xs: 12 }}>
 
-          <Student nombres="Luis Alfonso" apellidos="Borja Zevallos" paralelo="102"></Student>
+          <Student nombres="Luis Alfonso" apellidos="Borja Zevallos" paralelo="2"></Student>
 
         </Grid>
         
